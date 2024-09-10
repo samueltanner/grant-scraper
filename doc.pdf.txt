@@ -1,0 +1,1450 @@
+ 
+ 
+ 
+DEPARTMENT OF DEFENSE 
+Research and Education Program for Historically Black Colleges and Universities and 
+Minority-Serving Institutions (HBCU/MI) 
+ 1 August 2024 – 31 July 2029 
+ 
+Funding Opportunity Announcement 
+W911NF24S0009 
+ 
+ 
+ 
+Issued by 
+U.S. Army Contracting Command-Aberdeen Proving Ground Research 
+Triangle Park Division on behalf of the 
+U.S. Army Combat Capabilities Command-Army Research Laboratory 
+(DEVCOM-ARL) and 
+The Office of the Under Secretary of Defense for Research and Engineering/ Assistant 
+Secretary of Defense (Science and Technology) 
+(OUSD(R&E)/ASD(S&T) 
+ 
+ 
+ 
+ 
+Issued: August 2024 
+Applications Due: Open Continuously until 31 July 2029
+2 
+ 
+TABLE OF CONTENTS 
+I. PROGRAM DESCRIPTION ..................................................................................................................... 3 
+A. Required Overview Content .................................................................................................................. 3 
+B. Additional Overview Information ......................................................................................................... 3 
+II. FEDERAL AWARD INFORMATION....................................................................................................... 5 
+A. Program Overview ................................................................................................................................5 
+B. Federal Award Information...................................................................................................................6 
+C. Eligibility Information .......................................................................................................................... 7 
+D. Application and Submission Information ............................................................................................. 8 
+E. Application Review Information ......................................................................................................... 17 
+F. Federal Award Administration Notice………………………………………………………………19 
+G. Federal Awarding Agency Contact…………………………………………………………………24 
+H. Other Information ................................................................................................................................ 25 
+3 
+ 
+I. PROGRAM DESCRIPTION 
+A. Required Overview Content 
+1. Federal Agency Name(s) 
+The Research and Education Program for Historically Black Colleges and 
+Universities/Minority-Serving Institutions (HBCU/MI), funded by the Office of the Under 
+Secretary of Defense for Research and Engineering/ Assistant Secretary of Defense 
+(Science and Technology), will be administered through DEVCOM ARL. 
+2. Funding Opportunity Title 
+Department of Defense Research and Education Program for Historically Black Colleges and 
+Universities and Minority-Serving Institutions (HBCU/MI) 
+ 
+3. Announcement Type 
+This is a new announcement. 
+ 
+4. Funding Opportunity Number 
+W911NF24S0009 
+ 
+5. Catalog of Federal Domestic Assistance (CFDA) Number 
+12.630, Basic, Applied, and Advanced Research in Science and Engineering 
+ 
+6. Key Dates 
+This Funding Opportunity Announcement (FOA) is open from the date of issuance through 
+31 July 2029, unless otherwise amended. 
+ 
+B. Additional Overview Information 
+ 
+1. Under the authority of 10 U.S.C. § 4144 the Department of Defense (DoD) announces 
+this Research and Education Program for Historically Black Colleges and Universities 
+and Minority-Serving Institutions. The program is executed under policy and guidance 
+of the (OUSD(R&E)/ASD(S&T) and administered through the DEVCOM ARL. 
+ 
+2. The Army has a long history of supporting research and education at Historically Black 
+Colleges and Universities and Minority-Serving Institutions. The DoD, in cooperation 
+with the DEVCOM ARL, is leading new initiatives based on 10 U.S.C. § 4144, which 
+directs DoD to provide assistance to HBCUs and MIs (hereafter ‘covered educational 
+institutions’) to enhance their defense-related research and education capabilities in 
+areas of importance to national defense; increase the number of graduates in disciplines 
+important to the national security functions of the Department; and encourage research 
+and educational collaborations with other institutions of higher education. Also 
+informing these initiatives are the DoD-wide Strategy for Engagement with 
+HBCUs/MIs based on section 233 of the FY 2016 National Defense Authorization Act 
+(NDAA), section 262 of the NDAA for FY 2020., section 220 of the NDAA for FY 
+2022, and section 223 of the NDAA for FY 2022. 
+ 
+3. The DoD and the Nation need the best scientists and engineers to sustain defense 
+capabilities. This can be accomplished through partnerships with, and support of, 
+Institutions of Higher Education (IHE). The DoD will address this need by supporting 
+4 
+ 
+innovative research and education programs that encourage students to pursue careers 
+in science, technology, engineering and mathematics (STEM), particularly at covered 
+educational institutions. 
+ 
+4. The DEVCOM ARL invites applications from covered educational institutions that meet 
+the 10 U.S.C. § 4144 objective to enhance defense-related research and education.  The 
+statutory objective shall be accomplished through initiatives designed to: 
+ 
+• enhance the research and educational capabilities in areas of importance to 
+national defense; 
+ 
+• increase the number of graduates STEM disciplines; and 
+ 
+• encourage research and educational collaborations between such institutions and 
+other institutions of higher education, Government defense organizations, and the 
+defense industry. 
+ 
+5. Support for research and research-related educational enhancements will be achieved 
+through competitively awarded grants and cooperative agreements. Applications should 
+reflect the unique needs and capabilities of the applicant institution and explain how the 
+proposed project will support the above objective. 
+ 
+6. Applications are requested in areas of scientific interest to the DoD. These areas of 
+scientific interest are defined through Broad Agency Announcements (BAAs) and Funding 
+Opportunity Announcements (FOAs) published by the DEVCOM ARL for the Army and 
+in support of the OUSD(R&E). Detailed information about the Army’s respective areas of 
+interest is available at the following website 
+ 
+DEVCOM ARL: https://arl.devcom.army.mil/collaborate-with-
+us/opportunity/arl-baa/. This BAA may also be found on Grants.gov 
+(https://www.grants.gov) by entering the BAA number in the “Search Grants” 
+keyword box. 
+ 
+7. The scope of an application should align with (1) the DoD (OUSD(R&E)/ASD(S&T) 
+critical technology priorities set forth in the February 1, 2022 guidance USD(R&E) 
+Technology Vision for an Era of Competition. The (OUSD(R&E)/ASD(S&T) guidance 
+memo is at:  https://www.cto.mil/wp-
+content/uploads/2022/02/usdre_strategic_vision_critical_tech_areas.pdf.  The critical 
+technology priorities rely on innovation and workforce talent. The critical technology 
+areas are: 
+ 
+a. Biotechnology 
+b. Quantum Science 
+c. Future Generation Wireless Technology (Future G) 
+d. Advanced Materials 
+e. Trusted Artificial Intelligence and Autonomy 
+f. Integrated Network Systems-of-Systems 
+g. Microelectronics 
+h. Space Technology 
+5 
+ 
+i. Renewable Energy Generation and Storage 
+j. Advanced Computing and Software 
+k. Human-Machine Interfaces 
+l. Directed Energy 
+m. Hypersonics 
+n. Integrated Sensing and Cyber 
+o. Other Defense priorities as defined in the 2022 National Defense Strategy  
+ 
+Additional information and questions about the critical technology areas should be 
+directed to Agency Contacts identified in Section II.O. of this FOA.Other research 
+areas that are not aligned with the (OUSD(R&E)/ASD(S&T) critical technology 
+priorities listed in I.B.7 will be considered.  The DEVCOM ARL BAA listed above 
+under I.B.6 provides other research areas of interest to the DoD.   
+8. The DoD follows a risk-based security review process designed to help protect critical 
+technology and performer intellectual property associated with Defense research projects 
+by identifying possible vectors of undue foreign influence.  The DoD will create risk 
+assessments of all proposed senior/key personnel selected for awards.  The risk 
+assessment process will be conducted separately from the technical or scientific review 
+process and adjudicated prior to final award.  
+ 
+II. 
+FEDERAL AWARD INFORMATION 
+ 
+A. Program Overview 
+ 
+1. Projects proposed for funding under this FOA must align with the research interests of 
+the DoD and the Army. As defined by DoD, “basic research” is systematic study 
+directed toward greater knowledge or understanding of the fundamental aspects of 
+phenomena and of observable facts without specific applications towards processes or 
+products in mind. It includes all scientific study and experimentation directed toward 
+increasing fundamental knowledge and understanding in those fields of the physical, 
+engineering, environmental, life sciences, and information sciences related to long- 
+term national security needs. “Applied research” is systematic study to understand the 
+means to meet a recognized and specific need. It is a systematic expansion and 
+application of knowledge to develop useful materials, devices, and systems or 
+methods. Expanded definitions are detailed in DoD 7000.14-R, Financial 
+Management Regulation, Volume 2B, Chapter 5.  The regulation is available at: 
+https://comptroller.defense.gov/Portals/45/documents/fmr/current/02b/02b_05.pdf. 
+ 
+2. Applications should describe how the proposed project will enhance defense-related 
+research and research-related education pursuant to the objective and initiatives 
+defined by 10 U.S.C § 4144 and should demonstrate alignment with one or more of 
+the DoD critical technology areas or ARL research areas. Applicants are encouraged 
+to consider innovative approaches that will enhance their institution’s science and 
+engineering programs, strengthen the institution’s competitiveness in defense 
+research programs, attract students by exposing them to state-of-the-art research, and 
+encourage careers in STEM disciplines. 
+ 
+3. The DoD will not prescribe an approach for an application; instead, it expects 
+applicants to reflect on the unique needs and capabilities of their respective 
+6 
+ 
+institution. Methods through which the statutory objective can be achieved are as 
+varied as the institutions. Factors such as research capabilities and facilities are 
+unique to each institution and should be considered when preparing an application. 
+ 
+B. Federal Award Information 
+ 
+1. The Government reserves the right to select for award all, some, or none of the 
+applications submitted in response to this announcement. Due to Government 
+budget uncertainties, no specific amounts have been reserved for awards under this 
+FOA. If an Applicant is interested in submitting an application under this FOA and 
+has not previously submitted a preliminary inquiry under Section D. below, it is 
+highly recommended to contact Ms. Evelyn Kent before preparing a whitepaper or 
+submitting a full application. 
+ 
+2. Authority: The Army Contracting Command – Aberdeen Proving Ground – 
+Research Triangle Park  Division (ACC-APG-RTP) has the authority to award a 
+variety of instruments on behalf of DEVCOM ARL. Awards under this FOA 
+may be a grant or a cooperative agreement. The type of award will depend on 
+the scope of project. Applicants may propose scholarships or fellowships that 
+will be issued through the authority of the grant or cooperative agreement. The 
+ACC-APG RTP Division reserves the right to select the type of award most 
+appropriate for the effort proposed. Applicants should become familiar with award 
+types and applicable regulations, described below. 
+ 
+3. Grant: A legal instrument that, consistent with 31 U.S.C. § 6304, is used to enter 
+into a relationship: 
+ 
+• The principal purpose of which is to transfer a thing of value to the recipient to 
+carry out a public purpose of support or stimulation authorized by a law of the 
+United States, rather than to acquire property or services for the Federal 
+Government’s direct benefit or use. 
+ 
+• In which substantial involvement is not expected between the Federal Government 
+and the recipient when carrying out the activity contemplated by the grant. 
+• No fee or profit is allowed. 
+4. Cooperative Agreement: A legal instrument which, consistent with 31 U.S.C. 
+§ 6305, is used to enter into the same kind of relationship as a grant except that 
+substantial involvement is expected between the Federal Government and the 
+recipient when carrying out the activity contemplated by the cooperative agreement. 
+The term does not include "cooperative research and development agreements" as 
+defined in 15 U.S.C. § 3710a. No fee or profit is allowed. 
+ 
+Grants and cooperative agreements are governed by the following: 
+• Federal statutes 
+• Federal regulations 
+• 2 CFR Part 200 
+• 2 CFR Part 1104,  
+7 
+ 
+• 32 CFR Parts 21, 22, 26 and 28 
+• DoD Research and Development General Terms and Conditions 
+• Agency-specific Research Terms and Conditions 
+ 
+5. The following websites may be accessed to obtain an electronic copy of the governing 
+regulations and terms and conditions: 
+a. Code of Federal Regulations (CFR): http://www.ecfr.gov 
+b. DoD Research and Development General Terms and Conditions: 
+ 
+https://www.nre.navy.mil/work-with-us/manage-your-award/manage-grant-award/grants-
+terms-conditions 
+c. Agency-specific Research Terms and Conditions: 
+https://www.arl.army.mil/resources/baa-forms/#terms-and-conditions 
+ 
+C. Eligibility Information 
+ 
+1. Eligible Applicants 
+ 
+As provided in 10 U.S.C. § 4144, eligibility for this competition is open only to “covered 
+educational institutions,” which are defined as: 
+ 
+a. institutions of higher education eligible for assistance under Title III or Title V of the 
+Higher Education Act of 1965 (20 U.S.C. 1051 et seq.); or 
+ 
+b. accredited post-secondary minority institutions. 
+ 
+Eligible applicants include community colleges or other two-year degree granting institutions 
+meeting the definition of a “covered educational institution.” 
+Enrollments, accreditation, and other factors may affect an institution’s eligibility in any 
+given year. With the exception of HBCUs and Tribal Colleges and Universities (TCUs), an 
+institution must apply to the Department of Education (DoEd) each year for eligibility under 
+Title III or Title V. A copy of the DoEd letter certifying eligibility for Title III or Title V 
+assistance in the year of the application to this FOA must be included with each 
+application. The eligibility letter will not be included in the page limit (see Section II.G.3. 
+below). If the DoEd eligibility letter is not submitted with the application, the applicant will 
+be deemed ineligible, and the application will not be considered by DoD. 
+ 
+2. Cost Sharing or Matching - Cost sharing or matching is not required and is not an 
+evaluation factor. 
+ 
+3. Other - Faculty and/or post-doctoral associates at the applicant institution may participate 
+in the project and assist the PI as co-PI or in another capacity. HBCUs/MIs applying under 
+this FOA may propose collaborations with up to two degree-granting IHEs.  Collaborations 
+with entities other than degree-granting IHEs such as United States defense organizations, 
+Federally Funded Research and Development Centers, and the defense industry are 
+permitted however the non-IHE entity cannot receive any direct or subaward funding from 
+the grant or cooperative agreement award(s).  Collaborations with foreign entities are not 
+allowed.  All proposed collaborations should be explained in the narrative and in the budget 
+justification. 
+ 
+8 
+ 
+D. Application and Submission Information 
+ 
+1. Preliminary Inquiries: Applicants are encouraged to make preliminary inquiries to 
+the Technical Point of Contact (TPOC) for this FOA, Ms. Evelyn Kent, at 
+Evelyn.W.Kent.civ@mail.mil to discuss the type of research effort being 
+contemplated. A whitepaper may be requested; if so, please follow the instructions 
+below. NOTE: the Government will not be obligated by discussions arising out of 
+preliminary inquiries. 
+ 
+2. Classified submissions will not be accepted under this FOA. 
+ 
+3. Whitepaper Preparation 
+ 
+(a) Whitepapers should outline the proposed research, including how it is 
+innovative, how it is expected to increase state-of-the-art knowledge in the 
+proposed research area, and how the project will impact STEM education at the 
+applicant institution. If collaborator(s) are anticipated, describe their 
+participation and the impact on their respective institution(s).  If the 
+collaborator is an IHE, describe the impact on their research and education 
+programs and their STEM students. Describe the project’s relevance to the DoD 
+critical technology areas or ARL research areas and the potential impact on the 
+defense mission, if known. 
+ 
+(b) Whitepapers are limited to seven (7) pages including five (5) pages for technical 
+content, a cover page and a one-page addendum as described below. Pages 
+exceeding these limits will not be reviewed or considered. 
+ 
+(c) Whitepapers must comply with the guidelines below. No forms are required for 
+whitepaper submission. 
+ 
+• 
+Page Size: 8 ½ x 11 inches 
+• 
+Margins – 1 inch 
+• 
+Spacing – single 
+• 
+Font – Times New Roman, 12 point 
+• 
+PDF document as attachment to email directed to TPOC at above address. 
+ 
+(d) Format and content of whitepapers: 
+ 
+a. Cover Page (not to exceed one page): The whitepaper cover page must include: 
+Title of the whitepaper; name of the Principal Investigator (PI) and the institution 
+submitting the whitepaper; the research area from the DEVCOM ARL FOA 
+against which the whitepaper is submitted (see page 4 of this FOA). 
+ 
+b. Technical Content (not to exceed five pages): 
+ 
+i. Provide a detailed discussion of the proposed effort including the research 
+objective, approach, relationship to similar research, and student involvement. 
+Include the nature and extent of the anticipated results and, if applicable, the 
+manner in which the project will align with DoD priorities. 
+9 
+ 
+ii. The type of support, if any, the applicant requests of the Government, such as 
+use of government facilities, demonstration sites, test ranges, software, 
+personnel or materials, shall be identified as Government Furnished 
+Equipment (GFE), Government Furnished Information (GFI), Government 
+Furnished Property (GFP), or Government Furnished Data (GFD). Applicants 
+shall indicate any Government coordination that may be required for obtaining 
+usage of government equipment or facilities that may be necessary to perform 
+simulations or exercises to demonstrate the proposed capability. As noted 
+under Funding Restrictions, of this FOA, the acquisition of equipment or 
+instrumentation will not be funded under this FOA. 
+iii. The cost portion of the whitepaper shall contain a brief cost estimate 
+including personnel hours, materials and supplies, travel, 
+scholarships, stipends, and other anticipated expenses. 
+ 
+c. Addendum (not to exceed one page): Provide biographical sketches of 
+the PI and key personnel, highlighting qualifications and experience in the 
+proposed research area. 
+ 
+(e) Restrictive Markings on Whitepapers: Proprietary data that the 
+applicant intends to be used only for evaluation purposes must be clearly 
+marked. Also identify any components of the whitepaper that are to be 
+treated by the Government as limited rights in technical data and/or 
+restricted rights in computer software. In the absence of such markings, the 
+Government will conclude that there are no restrictions. All whitepapers 
+will be treated as procurement sensitive and contents will be disclosed only 
+for evaluation purposes. Applicants and any collaborators are cautioned, 
+however, that whitepapers may be subject to release under terms of the 
+Freedom of Information Act, 5 U.S.C. 552, as amended. 
+ 
+4. Full Application Preparation and Submission (Read the following instructions carefully): 
+ 
+The DoD is participating in the Grants.gov initiative to provide a single site to find and 
+apply for funding opportunities. Applications to this FOA must be submitted through 
+Grants.gov. Registration at the web site is required, as described below. This funding 
+opportunity may be found on Grants.gov by going to ‘Search Grants’ screen and entering 
+the funding opportunity number for this FOA, W911NF24S0009, in the Funding 
+Opportunity search box. 
+ 
+1. How to Register in Grants.gov: 
+ 
+Applicants should read the registration instructions carefully and assemble required 
+information specific to the applicant institution before beginning the registration process. 
+Organizations must have a Unique Entity Identifier (UEI), active registration in the System for 
+Award Management (SAM), and a Grants.gov account. 
+ 
+Creating a Grants.gov account can be completed online in minutes, but an UEI and 
+SAM registrations may take several weeks. Complete instructions can be found here: 
+https://www.grants.gov/web/grants/applicants/organization-registration.html 
+10 
+ 
+a. Obtain an UEI: All entities applying for funding must have an UEI. Applicants must enter the UEI 
+in the data entry field labeled "Unique Entity Identifier" on the Standard Form (SF) 424 form. 
+Instructions to obtain an UEI are available at: 
+https://www.grants.gov/applicants/applicant-registration  
+ 
+b. Register with SAM: Organizations applying through Grants.gov must register with the System for 
+Award Management (SAM). SAM registration must be renewed annually. Instructions for registering 
+with SAM are available at: https://www.grants.gov/applicants/applicant-registration 
+ 
+c. Create a Grants.gov Account: The next step is to register an account with Grants.gov. Follow 
+the on-screen instructions or refer to the instructions at: 
+https://www.grants.gov/applicants/applicant-registration 
+ 
+d. Add a Profile to a Grants.gov Account: A profile in Grants.gov corresponds to a single applicant 
+organization the user represents (i.e., an applicant) or an individual applicant. If you work for or 
+consult with multiple organizations and have a profile for each, you may log in to one Grants.gov 
+account to access all of your grant applications. To add an organizational profile to your Grants.gov 
+account, enter the UEI for the organization in the UEI field while adding a profile. Instructions are 
+available at: https://www.grants.gov/applicants/applicant-registration 
+ 
+e. EBiz POC Authorized Profile Roles: After registering with Grants.gov and creating an 
+Organization Applicant Profile, the organization applicant's request for Grants.gov roles and access 
+is sent to the EBiz POC. The EBiz POC will then log in to Grants.gov and authorize the appropriate 
+roles, which may include the Authorized Organization Representative (AOR) role, thereby giving 
+permission to complete and submit applications on behalf of the organization. Applications may be 
+submitted online at any time after establishing an AOR at the applicant institution. Instructions for 
+creating a profile on Grants.gov are available at: https://www.grants.gov/applicants/applicant-
+registration 
+ 
+f. Track Role Status: To track your role request, refer to: 
+https://www.grants.gov/applicants/applicant-registration 
+ 
+g. Electronic Signature: When applications are submitted through Grants.gov, the name of the 
+organization applicant with the AOR role (Block #19 on the SF-424) is inserted into the signature 
+line of the application; this is the electronic signature. The EBiz POC must authorize people who are 
+able to make legally binding commitments on behalf of the organization as a user with the AOR role; 
+this step is often missed, and it is crucial for valid and timely submissions. 
+ 
+2. How to Submit an Application in Grants.gov 
+ 
+Applicants can apply online using Workspace, which is a shared, online environment where 
+members of an institution’s grant team may simultaneously access and edit different web 
+forms within an application. For each funding opportunity announcement (FOA), individual 
+instances of a workspace can be created. Below is an overview of applying on Grants.gov. 
+Complete instructions are available at:  
+https://www.grants.gov/applicants/workspace-overview.html 
+ 
+a. Create a Workspace: Creating a workspace allows the user to complete the application 
+online and route it through the organization for review before submitting. 
+11 
+ 
+ 
+b. Complete a Workspace: Add participants to the workspace to work on the application 
+together, complete the required forms online or download PDF versions, and check for 
+errors before submission. The Workspace progress bar will display the state of your 
+application process as you apply. As you apply using Workspace, you may click the blue 
+question mark icon near the upper-right corner of each page to access context-sensitive help. 
+ 
+1) Adobe Reader: If you decide not to apply by filling out web forms you can download 
+individual PDF forms in Workspace. The individual PDF forms can be downloaded and 
+saved to your local device storage, network drive(s), or external drives, then accessed 
+through Adobe Reader. NOTE: Visit the Adobe Software Compatibility page on 
+Grants.gov to download the appropriate version of the software at: 
+https://www.grants.gov/applicants/adobe-software-compatibility. 
+ 
+2) Mandatory Fields in Forms: In the forms, you will note fields marked with an asterisk 
+and a background color. These fields are mandatory and must be completed to submit 
+your application. 
+ 
+3) Complete SF-424 Fields First: The forms are designed to fill in other required fields in 
+other forms, such as the applicant’s name, address, and UEI. Once completed, the 
+information will transfer automatically to the other forms. 
+ 
+c. Submit a Workspace: An application may be submitted through workspace by clicking the 
+Sign and Submit button on the Manage Workspace page, under the Forms tab. 
+ 
+d. Track a Workspace Submission: After successfully submitting a workspace application, a 
+Grants.gov Tracking Number (GRANT XXXXXXXX) is assigned to the application. The 
+number will be listed on the Confirmation page that is generated after submission. Using the 
+tracking number, access the Track My Application page under the Applicants tab or the 
+Details tab in the submitted workspace. For additional training resources, including video 
+tutorials, refer to: https://www.grants.gov/applicants/applicant-training  
+ 
+e. Applicant Support: Grants.gov provides applicants 24/7 support via the toll-free number 
+1-800-518-4726 and email at support@grants.gov. If you are experiencing difficulties with 
+your submission, it is best to call the Grants.gov Support Center and get a ticket number. 
+The Support Center ticket number will assist the DoD with tracking your issue and 
+understanding background information on the issue. 
+ 
+3. Content of Application 
+ 
+Applicants must complete all forms and attachments. Follow the instructions on the forms 
+and additional instructions below. To activate the “pop up” instructions on the forms, turn 
+on the “Help Mode” (icon with the pointer and question mark at the top of the form). All 
+attachments to Grants.gov forms must be in PDF format. NOTE: Ensure that attachments 
+are not password protected. The following formatting rules apply for attachments: 
+ 
+Paper size when printed – 8.5 x 11-inch paper, one-sided 
+Margins – 1 inch 
+Spacing – single 
+12 
+ 
+Font – Times New Roman, 12-point (excluding mandatory forms) 
+Number of pages – 25 
+The 25-page limit applies to the technical portion of the application, which includes the 
+following: Project Summary/Abstract; Project Narrative; and Facilities and Other 
+Resources. Pages exceeding this limit will not be considered in the application evaluation. 
+Letters of support, if any, should be addressed to the PI; these will not be included in the 
+page count. 
+ 
+The following SF 424 (R&R) forms and attachments, as applicable, are required: 
+ 
+FORM: The SF 424 (R&R) Application for Federal Assistance - The SF 424 (R&R) form 
+is the cover page for all applications. Complete this form first to populate data in other 
+forms. By submitting an application through Grants.gov, the AOR (Block #19 on the form 
+and identified by username and password) is providing an “electronic signature.” 
+ 
+To be compliant with Title IX of the Education Amendments of 1972 (20 U.S.C. § 1681 (Et. 
+Seq.), the Department of Defense is collecting certain demographic and career information 
+to assess the success rates of women who are proposed for key roles in applications in 
+STEM disciplines. To enable this assessment, each application must include the following 
+two forms completed as indicated below. 
+ 
+FORM: Research & Related Senior/Key Person Profile (Expanded) – The ‘Degree 
+Type’ and ‘Degree Year’ fields on the Research and Related Senior/Key Person Profile 
+form will be used by DoD as the source for career information. In addition to the required 
+fields on the form, applicants must complete these fields for all individuals identified as 
+having the project role of PI or Co-PI on the form. Additional senior/key persons can be 
+added by selecting the “Next Person” button. 
+ 
+Biographical sketches are required for the PI and key personnel (not to exceed three pages 
+each). These will not be included in the page count. Please include education and the year in 
+which each degree was completed. 
+ 
+(2) 
+The following information is also required as part of a biographical sketch: 
+ 
+(a) 
+Relevant experience and employment history including a description of any prior 
+Federal employment within one year preceding the date of proposal submission. 
+ 
+(b) 
+List of up to five publications most closely related to the proposed project and up to 
+five other significant publications, including those being printed. Patents, copyrights, or 
+software systems developed may be substituted for publications. 
+(c) 
+List of persons, other than those cited in the publications list, who have collaborated on 
+a project or a book, article, report or paper within the last four years. Include 
+pending publications and submissions. Otherwise, state "None." 
+ 
+(d) 
+Names of each investigator's own graduate or post-graduate advisors and advisees. 
+ 
+NOTE: The information provided in (c) and (d) is used to help identify potential conflicts or 
+bias in the selection of reviewers. 
+ 
+ FORM:  CURRENT AND PENDING SUPPORT: 
+13 
+ 
+ 
+Not later than October 1, 2024, all Notices of Funding Opportunity for assistance awards for 
+the purpose of R&D must require the use of the common forms located here 
+https://www.nsf.gov/bfa/dias/policy/nstc_disclosure.jsp for the collection of biosketch and 
+current and pending support information associated with the SF-424 R&R family of forms. 
+Specifically, these common forms are to be used with the Research and Related Senior/Key 
+Person Profile (Expanded) form (OMB Control Number 4040-0001). This form has inputs for 
+both “biosketch” and “current and pending support”. These common forms are to be used to 
+supply the inputs to the Research and Related Senior/Key Person Profile (Expanded) form. 
+ 
+FORM: Research & Related Personal Data - This form will be used by DoD as the source 
+of demographic information, such as gender, race, ethnicity, and disability information for 
+the PI and all other persons identified as Co-PI. Each application must include this form. 
+Note, however, that provision of the demographic information is voluntary. If completing 
+the form for multiple individuals, each one can be added by selecting the “Next Person” 
+button. The demographic information will be used for statistical purposes only and will not 
+be available to merit reviewers. Applicants who do not wish to provide some or all of the 
+information should select the “Do not wish to provide” option. 
+ 
+FORM: Research & Related Other Project Information – Complete questions 1 through 6 
+and attach files for items 7 through 12. The files must comply with the following: 
+ 
+Project Summary/Abstract (Field 7 on the form) – The Project Summary/Abstract must be 
+no longer than a single page. It must be marked to indicate that it is publicly releasable, 
+as abstracts for all awarded applications will be placed on a DoD website searchable by the 
+public. The abstract should provide a concise description of the proposed project and 
+associated research-related education, including a statement of objectives and methods to be 
+employed. It should be informative to other persons working in the same or related research 
+fields and insofar as possible understandable to a technically literate lay reader. The header 
+of the abstract should identify the PI, the institution, and the application title. 
+ 
+Project Narrative (Field 8 on the form) - At the beginning of the project narrative, indicate 
+the research topic area(s) to which the proposed project is relevant and the technical 
+program manager(s). Refer to BAA and FOA links on page 4 of this document. The 
+project narrative must describe the following to enable technical evaluation of the 
+proposed project: 
+ 
+− 
+The research to be undertaken in a level of detail that fully addresses the objectives of 
+the research, approaches to be used, the relationship of the project to the state of 
+knowledge in the field and to any related work at the institution or elsewhere. 
+ 
+− 
+The anticipated results and how the project relates to the DoD mission and priorities. 
+ 
+− 
+The facilities and equipment available at the university for performing the proposed 
+research. 
+ 
+− 
+The involvement of undergraduate and/or graduate students in the research project and 
+associated research-related education. Program funds may be requested for scholarships 
+and fellowships pursuant to 10 U.S.C. 4144. The involvement of students in the 
+research project is critical to achieving program objectives. 
+ 
+14 
+ 
+Bibliography & References Cited (Field 9 on the form) – Include a bibliography and list 
+of literature citations, if applicable. 
+ 
+Facilities and Other Resources (Field 10 on the form) – Include a list of existing facilities 
+and available resources including equipment and instruments to be used in the project. 
+ 
+Equipment (Field 11 on the form) – Not applicable. Equipment/instrumentation acquisition 
+will not be supported under this FOA. 
+ 
+Other Attachments (Field 12 on the form) – Provide other documents relevant to the 
+proposed project. 
+ 
+FORM: (R&R) Research & Related Budget: Complete Sections A through H and attach 
+a budget justification in Section L. The budget justification should explain with clarity all 
+entries in Sections A through H and enable meaningful evaluation. Note that Section J 
+should not be completed, as no fee will be paid to a recipient.  Costs proposed must 
+confirm to 2 CFR Part 200. 
+The total project costs, i.e., the amount requested from DoD under this FOA, must be shown 
+in total as well as broken down by cost element for each year of the performance period. 
+Additional budget periods may be added to the Research & Related Budget form by clicking 
+the “Add Period” button at the end of the first budget period. The cumulative Research & 
+Related Budget is automatically calculated, and the last page of the budget form will reflect 
+the total costs for all budget periods. NOTE: the total calculated amount on the last page of 
+the budget form must agree with the amount entered in Block #15 of the Cover Page, SF424. 
+ 
+The following additional guidance is provided: 
+ 
+Direct Labor: Show the current and projected salary amounts in terms of man-hours, man- 
+months, or annual salary to be charged by the PI(s), faculty, research associates, post- 
+doctoral associates, graduate and undergraduate students, secretarial, clerical, and other 
+technical personnel either by personnel or position. State the number of man-hours used to 
+calculate a man-month or man-year. Research during the academic term is deemed part of 
+regular academic duties, not an extra function for which additional compensation or 
+compensation at a higher rate is warranted. Consequently, academic term salaries shall not 
+be augmented either in rate or in total amount for research performed during the academic 
+term. Rates of compensation for research conducted during non-academic (summer) terms 
+shall not exceed the rate for the academic terms. When part or all of a person's services are 
+to be charged as project costs, it is expected that the person will be relieved of an equal part 
+or all of his or her regular teaching or other obligations. 
+ 
+For each person or position, provide the following information: 
+ 
+a. The basis for the direct labor hours or percentage of effort, e.g., historical hours or 
+estimates; 
+ 
+b. The basis for the direct labor rates or salaries. Labor costs should be predicated upon 
+current labor rates or salaries. These rates may be adjusted upward for forecast 
+salary or wage cost-of-living increases that will occur during the agreement period. 
+The cost application should separately identify the rationale applied to base 
+15 
+ 
+salary/wage for cost-of-living adjustments and merit increases. Each must be fully 
+explained; 
+ 
+c. The portion of time to be devoted to the proposed research, divided 
+between academic and non-academic (summer) terms, when applicable; 
+d. The total annual salary charged to the research project; and 
+ 
+e. Any details that may affect the salary during the project, such as plans for leave 
+and/or remuneration while on leave. 
+ 
+f. 
+Fringe Benefits and Indirect Costs (Overhead, General and Administrative, and 
+Other): The most recent rates, dates of negotiation, the base(s) and periods to which 
+the rates apply must be disclosed and a statement included identifying whether the 
+proposed rates are provisional or fixed. If the rates have been negotiated by a 
+Government agency, state when and by which agency. A copy of the negotiation 
+memorandum should be provided. If negotiated forecast rates do not exist, 
+applicants must provide sufficient detail to enable a determination to be made that 
+the costs included in the forecast rate are allocable according to applicable cost 
+provisions. Applicants' disclosure should be sufficient to permit a full understanding 
+of the content of the rate(s) and how it was established. As a minimum, the 
+submission should identify: (g. thru l. below) 
+g. All individual cost elements included in the forecast rate(s); 
+ 
+h. Basis used to prorate indirect expenses to cost pools, if any; 
+ 
+i. How the rate(s) was calculated; 
+ 
+j. Distribution basis of the developed rate(s); 
+ 
+k. Basis on which the overhead rate is calculated, such as "salaries and wages" or "total 
+costs;" and 
+ 
+l. The period of the applicant's Fiscal Year. 
+ 
+Travel: Forecasts of travel expenditures (domestic and foreign) that identify the destination, 
+duration, and purpose of trip are required, as well as itemized cost elements of airfare, 
+mileage, per diem rates, and other associated costs. These should be in sufficient detail to 
+determine the reasonableness of such costs. Allowance for air travel normally will not 
+exceed the cost of round-trip, economy air accommodations. Costs for domestic travel must 
+not exceed $3,000 per year per PI. Separate, prior approval is required for foreign travel (i.e., 
+travel outside the continental U.S., its possessions and Canada). Foreign travel requests must 
+not exceed $1,800 per year per PI. Special justification will be required for travel requests in 
+excess of the amounts stated above and for travel by individuals other than the PI(s). 
+Individuals other than the PI(s) may include post-doctoral associates, research associates, 
+graduate and undergraduate students, secretarial, clerical, and other technical personnel. 
+ 
+Materials and Supplies: Estimate costs of materials and supplies. Provide basis for 
+16 
+ 
+developing the cost estimate (e.g., vendor quotes or vendor websites). 
+ 
+Publication: Estimate the costs of publishing and reporting research results. 
+Consultants: Consultant costs are not allowed under this FOA. 
+Computer Services: Funds under this FOA may be used for computer services (e.g., retrieval 
+of scientific or technical information) ONLY if such services are provided by departments or 
+components of the applicant institution. Funding for computer services is otherwise prohibited. 
+Equipment or Facility Rental/User Fees: Funds under this FOA will not be used for the 
+acquisition of equipment.  Rental/user fees for facilities owned and operated by the institution 
+are allowable.  Rental/user fees for facilities not owned and operated by the institution are not 
+allowable. 
+ 
+Subawards: An application may propose research collaborations with no more than two IHEs. 
+Students from all participating institution must be involved in the research. The budget for a 
+research collaboration must show that at least 60 percent of the total direct costs will be 
+attributable to activities performed by the applicant institution, both in the conduct of research 
+and in the management responsibilities of such an arrangement. 
+ 
+Student/Trainee Support Costs: Funds awarded under this FOA may be used for 
+scholarships and fellowships (10 U.S.C. 4144). Provide details about the scholarships or 
+fellowships including levels of effort and support, and correlation with objectives of this 
+FOA. 
+ 
+Other Direct Costs: Itemize and provide the basis for other direct costs. 
+ 
+FORM: (R&R) Research & Related Subaward Budget Attachment(s) – If the applicant is 
+proposing research collaborations with one or two other IHEs, use this form for the 
+subaward budget(s). 
+ 
+FORM: Disclosure of Lobbying Activities (SF-LLL) – If the applicant has lobbying to 
+report per 31 U.S.C. 1352, complete this optional form in the application package and 
+include it with the other forms being submitted. 
+ 
+DATA MANAGEMENT PLAN:  A data management plan is a document that describes 
+which data generated through the course of the proposed research will be shared and 
+preserved, how it will be done, or explains why data sharing or preservation is not 
+possible or scientifically appropriate, or why the costs of sharing or preservation are 
+incommensurate with the value of doing so. See also: DoD Instruction 3200.12. In no 
+more than 2 pages set forth as a separate PDF document, discuss the following: 
+ 
+• 
+The types of data, software, and other materials to be produced. 
+• 
+How the data will be acquired. 
+• 
+Time and location of data acquisition, if scientifically pertinent. 
+• 
+How the data will be processed. 
+• 
+The file formats and the naming conventions that will be used. 
+• 
+A description of the quality assurance and quality control measures during 
+collection, analysis, and processing. 
+17 
+ 
+• 
+A description of dataset origin when existing data resources are used. 
+• 
+A description of the standards to be used for data and metadata format and content. 
+• 
+Appropriate timeframe for preservation. 
+• 
+The plan may consider the balance between the relative value of data preservation 
+and other factors such as the associated cost and administrative burden. The plan will 
+provide a justification for such decisions. 
+• 
+A statement that the data cannot be made available to the public when there are 
+national security or controlled unclassified information concerns (e.g., “This data cannot 
+be cleared for public release in accordance with the requirements in DoD Directive 
+5230.09.”) 
+ 
+4. Other Information 
+ 
+Whitepaper Submission: All whitepapers must be emailed directly to the TPOC, Ms. 
+Evelyn Kent, Evelyn.W.Kent.civ@mail.mil. In the email subject line, include the phrase 
+“Whitepaper Submission” and the FOA number W911NF24S0009. Whitepapers must 
+be a single PDF file attached to the email. 
+ 
+ 
+5. Submission Dates and Times 
+ 
+Applications will be considered until 4:00 PM Eastern Time 31 July 2029. All 
+applicants will receive an electronic acknowledgement of receipt via email to the individual 
+who serves as the institution’s AOR (Block #19 of the SF 424). 
+ 
+6. Funding Restrictions 
+ 
+The following will not be funded under this FOA: 
+ 
+Alteration or renovation of facilities 
+ 
+Projects involving classified information 
+ 
+Consultant Services 
+ 
+Acquisition of equipment or instrumentation  
+ 
+Payments to non-IHE collaborators 
+ 
+E. Application Review Information 
+ 
+ 
+1. Evaluation and Disposition of Whitepapers: 
+ 
+a. Evaluation Process: The whitepaper will be evaluated for the concept's scientific 
+merit, potential contributions to the DoD mission and priority areas, and how the 
+proposed effort will facilitate increasing the number the graduates in STEM 
+disciplines. Applicants whose whitepapers are evaluated as having significant 
+scientific merit and strong student participation in STEM disciplines may be 
+invited to submit a full application. Note, however, that an applicant may submit 
+an application despite having not submitted a whitepaper or receiving an 
+application invite. 
+ 
+b. Disposition Process: The applicant will be notified in writing upon completion of 
+18 
+ 
+the whitepaper evaluation. Whitepapers will not be returned to applicants. 
+Applicants may request a summary of their whitepaper evaluation from the Grants 
+Officer. 
+ 
+ 
+2. Application Evaluation Criteria 
+ 
+ 
+Primary Evaluation Criteria (of equal importance to each other) are: 
+ 
+a. Scientific and technical merit of the proposed research. 
+b. Relevance of the proposed research to the DoD critical technology areas or ARL 
+research areas and potential contributions of the proposed research to the DoD 
+mission. 
+c. Potential of the proposed project to develop new research capabilities or enhance 
+existing research capabilities and to broaden the research base in support of national 
+defense. 
+d. Potential of the project to enhance research and research-related education 
+capabilities in STEM disciplines and increase the number of students engaged in 
+STEM disciplines. 
+e. Qualifications of the PI to achieve the objectives of the project. 
+ 
+ Secondary evaluation criteria, of less importance than primary criteria but of         
+      equal importance to each other, are: 
+ 
+a. Potential of the project to foster collaborations with other institutions of higher 
+education. 
+b. Budgetary realism and cost effectiveness of the proposed research project. 
+ 
+Applications will be evaluated by DoD subject matter experts using the above criteria. The 
+most meritorious applications will be recommended for award commensurate with available 
+funding. Approval of an award recommendation is the authority of the Research Director of the 
+OUSD(R&E)/ASD(S&T). Applications may be handled for administrative purposes by support 
+contractors. These support contractors are prohibited from submitting or collaborating on 
+applications submitted under this FOA and they are prohibited from collaborating with IHEs 
+post-award.  Support contractors are bound by non-disclosure and/or conflict of interest 
+requirements.   
+ 
+3.Recipient Qualification 
+ 
+The Grants Officer is responsible for determining a recipient’s qualification prior to 
+award. In general, the Grants Officer will award grants or cooperative agreements only to 
+qualified recipients that meet the standards at 32 CFR 22.415. To be qualified, a potential 
+recipient must: 
+ 
+a. Have the management capability and adequate financial and technical resources, 
+including those that would be made available through the grant or cooperative 
+agreement, to execute the program of activities envisioned under the grant or 
+19 
+ 
+cooperative agreement; 
+ 
+b. Have a satisfactory record of executing such programs or activities (if applicant is a 
+previous recipient of a DoD-funded award); 
+ 
+c. Have a satisfactory record of integrity and business ethics; and 
+ 
+d. Be otherwise qualified and eligible to receive a grant or cooperative agreement 
+under applicable laws and regulations. 
+ 
+1) Applicants are requested to provide information to assist the Army Grants Officer’s 
+evaluation of recipient qualifications. In accordance with Office of Management and Budget 
+(OMB) guidance in parts 180 and 200 of Title 2, CFR, it is DoD policy that DoD 
+Components must report and use integrity and performance information in the Federal 
+Awardee Performance and Integrity Information System (FAPIIS), or any successor system 
+designated by OMB. 
+ 
+2) If the total Federal share of a grant or cooperative agreement will be greater than the 
+simplified acquisition threshold (currently $250,000), then: 
+ 
+a. The Army Grants Officer, prior to making an award, will review and consider any 
+information about the applicant that is in the designated integrity and performance 
+system accessible through SAM (currently FAPIIS) (see 41 U.S.C. 2313); 
+ 
+b. An applicant, at its option, may review information in the designated integrity and 
+performance systems accessible through SAM and comment on any information about 
+itself that a federal awarding agency previously entered and is currently in the 
+designated integrity and performance system accessible through SAM. 
+ 
+c. The Army Grants Officer will consider any comments by the applicant, in addition to 
+the other information in the designated integrity and performance system, in making a 
+judgment about the applicant's integrity, business ethics, and record of performance 
+under Federal awards when completing the review of risk posed by applicants as 
+described in 2 CFR 200.205, Federal awarding agency review of risk posed by 
+applicants. 
+ 
+ 
+ 
+F. FEDERAL AWARD ADMINISTRATION INFORMATION 
+ 
+i. 
+Award Notices 
+ 
+a. Applicants, both successful and unsuccessful, will be notified via e-mail.  Feedback will be 
+provided upon request. 
+ 
+b. The notification e-mail to successful applicants must not be regarded as a formal 
+authorization to commit or expend funds. The Government is not obligated to 
+provide any funding until the award document is signed by the Grants Officer. 
+ 
+20 
+ 
+c. Successful applicants may be contacted by the Grants Officer if supplemental 
+information is necessary to finalize an award. This may involve representations, 
+certifications, revised budgets or budget explanations, or other information required 
+for award execution. The award start date will be determined at that time. 
+ 
+ii. 
+Administrative and National Policy Requirements 
+ 
+a. An award issued under this FOA will be governed by the general terms and conditions 
+in effect at the time of the award that conform to DoD’s implementation of OMB 
+guidance applicable to financial assistance in 2 CFR part 200, “Uniform 
+Administrative Requirements, Cost Principles, and Audit Requirements for Federal 
+Awards.” The DoD Research and Development General Terms and Conditions (latest 
+version, September 2020) are available at https://www.nre.navy.mil/work-with-
+us/manage-your-award/manage-grant-award/grants-terms-conditions 
+  
+b. A recipient must comply with all applicable national policy requirements. The key 
+national policy requirements that may relate to an award under this FOA are included 
+in the terms and conditions specified in paragraph 2.a. above. 
+ 
+ 
+c. Grant awards greater than $100,000 require a certification of compliance with a 
+national policy mandate concerning lobbying. Statutes and Government-wide 
+regulations require the certification to be submitted prior to award. When submitting 
+your grant through Grants.gov, by completing blocks 18 and 19 of the SF 424 ( 
+R&R) Form, the grant applicant is providing the certification on lobbying required 
+by 32 CFR Part 28; otherwise, a copy signed by the AOR must be provided. Below is 
+the required certification:  
+ 
+CERTIFICATION AT APPENDIX A TO 32 CFR PART 28 REGARDING LOBBYING: Certification 
+for Grants and Cooperative Agreements the undersigned certifies, to the best of his or her knowledge and 
+belief, that: 
+ 
+(1) No Federal appropriated funds have been paid or will be paid, by or on behalf of the 
+undersigned, to any person for influencing or attempting to influence an officer or employee 
+of an agency, a Member of Congress, an officer or employee of Congress, or an employee of 
+a Member of Congress in connection with the awarding of any Federal contract, the making 
+of any Federal grant, the making of any Federal loan, the entering into of any cooperative 
+agreement, and the extension, continuation, renewal, amendment, or modification of any 
+Federal contract, grant, loan, or cooperative agreement 
+ 
+(2) If any funds other than Federal appropriated funds have been paid or will be paid to any 
+person for influencing or attempting to influence an officer or employee of any agency, a 
+Member of Congress, an officer or employee of Congress, or an employee of a Member of 
+Congress in connection with this Federal contract, grant, loan, or cooperative agreement, the 
+undersigned shall complete and submit SF-LLL, "Disclosure Form to Report Lobbying," in 
+accordance with its instructions.  
+ 
+(3) The undersigned shall require that the language of this certification be included in the award 
+documents for all subawards at all tiers (including subcontracts, subgrants, and contracts 
+21 
+ 
+under grants, loans, and cooperative agreements) and that all subrecipients shall certify and 
+disclose accordingly.  
+ 
+This certification is a material representation of fact upon which reliance was placed when this transaction 
+was made or entered into. Submission of this certification is a prerequisite for making or entering into this 
+transaction imposed by 31 U.S.C. 1352. Any person who fails to file the required certification shall be 
+subject to a civil penalty of not less than $10,000 and not more than $100,000 for each such failure.  
+In accordance with Section 743 of P.L. 113-235 , none of the funds appropriated or otherwise made 
+available by that or any other Act may be made available for a grant or cooperative agreement with an 
+entity that requires its employees or contractors seeking to report fraud, waste, or abuse to sign internal 
+confidentiality agreements or statements prohibiting or otherwise restricting those employees or 
+contractors from lawfully reporting that waste, fraud, or abuse to a designated investigative or law 
+enforcement representative of a Federal department or agency authorized to receive the information. 
+ 
+d. PROHIBITION ON CONTRACTING WITH ENTITIES THAT REQUIRED CERTAIN INTERNAL 
+CONFIDENTIALITY AGREEMENTS – REPRESENTATION  
+Agreement with the representation below will be affirmed by checking the “I agree” box in block 17 of 
+the SF424 (R&R) as part of the electronic proposal submitted via Grants.gov. The representation reads as 
+follows: By submission of its proposal or application, the applicant represents that it does not require any 
+of its employees, contractors, or subrecipients seeking to report fraud, waste, or abuse to sign or comply 
+with internal confidentiality agreements or statements prohibiting or otherwise restricting those 
+employees, contractors, subrecipients from lawfully reporting that waste, fraud, or abuse to a designated 
+investigative or law enforcement representative of a Federal department or agency authorized to receive 
+such information. *Note that: Section 743 states that it does not contravene requirements applicable to SF 
+312, Form 4414, or any other form issued by a Federal department or agency governing the nondisclosure 
+of classified information.  
+ 
+Recipients are required to submit the following representation with the application package IAW the 
+instructions of this FOA. 
+  
+e. REPRESENTATIONS UNDER DOD ASSISTANCE AGREEMENTS: APPROPRIATIONS 
+PROVISIONS ON TAX DELINQUENCY AND FELONY CONVICTIONS  
+ 
+The applicant is [ ] is not [ ] a “Corporation” meaning any entity, including any institution of higher 
+education, other nonprofit organization, or for-profit entity that has filed articles of incorporation.  
+ 
+If the applicant is a “Corporation” please complete the following representations:  
+ 
+(a) The applicant represents that it is [ ] is not [ ] a corporation that has any unpaid Federal tax liability 
+that has been assessed, for which all judicial and administrative remedies have been exhausted or have 
+lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority 
+responsible for collecting the tax liability.  
+ 
+(b) The applicant represents that it is [ ] is not [ ] a corporation that was convicted of a criminal violation 
+under any Federal law within the preceding 24 months. 
+ 
+NOTE: If an applicant responds in the affirmative to either of the above representations, the applicant is 
+ineligible to receive an award unless the agency suspension and debarment official (SDO) has considered 
+suspension or debarment and determined that further action is not required to protect the Government’s 
+interests. The applicant therefore should provide information about its tax liability or conviction to the 
+agency’s SDO as soon as it can do so, to facilitate completion of the required considerations before award 
+22 
+ 
+decisions are made 
+ 
+f. PROHIBITION ON CONTRACTING WITH ENTITIES USING CERTAIN 
+TELECOMMUNICATIONS AND VIDEO SURVEILLANCE SERVICES OR EQUIPMENT  
+ 
+Section 889 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2019 (Public Law 
+115-232) prohibits the head of an executive agency from obligating or expending loan or grant funds to 
+procure or obtain, extend, or renew a contract to procure or obtain, or enter into a contract (or extend or 
+105 renew a contract) to procure or obtain the equipment, services, or systems prohibited systems as 
+identified in section 889 of the NDAA for FY 2019. For more information on how this applies to all grant 
+recipients and sub-recipients after August 13, 2020, please see DoD Research General Terms and 
+Conditions (SEP 2021) NP Article IV. Other national policy requirements, paragraph 18. 
+b. Policy Requirements: The following list provides notable national policy requirements that may be 
+applicable to an award. NOTE: The following is not an all-inclusive list of policy requirements. For 
+assistance awards, refer to the DoD Research and Development General Terms and Conditions at 
+https://www.nre.navy.mil/work-with-us/manage-your-award/manage-grant-award/grantsterms-conditions 
+for additional national policy requirements that may apply.  
+ 
+g. PROTECTION OF HUMAN SUBJECTS: 
+The recipient must protect the rights and welfare of individuals who participate as human subjects in 
+research under this award and comply fully with the requirements at 32 CFR part 219, Department of 
+Defense Instruction (DoDI) 3216.02, 10 U.S.C. 980, the National Policy Requirements Concerning Live 
+Organisms Terms and Conditions (Section A.1., Human Subjects, at 81 Federal Register 78380, 
+Appendix C to Part 1122), and when applicable, Food and Drug Administration (FDA) policies and 
+regulations. 
+ 
+The recipient must not begin performance of research involving human subjects, also known as human 
+subjects research (HSR), that is covered under 32 CFR part 219, or that meets exemption criteria under 32 
+CFR 219.101(b), or expends funding on such effort, until you receive a formal notification of approval 
+from the cognizant DoD Human Research Protection Official (HRPO). Approval to perform HSR under 
+this award is received after the HRPO has performed a review of the recipient’s documentation of planned 
+HSR activities and has officially furnished a concurrence with the recipient’s determination as presented 
+in the documentation. 
+ 
+In order for the HRPO to accomplish this concurrence review, the recipient must provide sufficient 
+documentation to enable his or her assessment as follows:  
+(i) If the HSR meets an exemption criterion under 32 CFR 219.101(b), the documentation must include a 
+citation of the exemption category under 32 CFR 219.101(b) and a rationale statement.  
+(ii) If the recipient’s activity is determined as “non-exempt research involving human subjects”, the 
+documentation must include: Assurance of Compliance (a written assurance that an institution will 
+comply with requirements of 32 CFR Part 219, as well as the terms of the assurance) appropriate for the 
+scope of work or program plan; and − Institutional Review Board (IRB) approval, as well as all 
+documentation reviewed by the IRB to make their determination.  
+ 
+The HRPO retains final judgment on what activities constitute HSR, whether an exempt category applies, 
+whether the risk determination is appropriate, and whether the planned HSR activities comply with the 
+requirements in paragraph (a) of this section. The recipient must notify the Grants Officer/ immediately of 
+any suspensions or terminations of the Assurance of Compliance. DoD staff, consultants, and advisory 
+groups may independently review and inspect the recipient’s research and research procedures involving 
+human subjects and, based on such findings, DoD may prohibit research that presents unacceptable 
+hazards or otherwise fails to comply with DoD requirements.  
+23 
+ 
+Definitions for terms used in this section are found in DoDI 3216.02.  
+ 
+h. ANIMAL USE:  Prior to initiating any animal work under the award, the recipient must:  
+(i) Register the recipient’s research, development, test, and evaluation or training facility with the 
+Secretary of Agriculture in accordance with 7 U.S.C. 2136 and 9 CFR section 2.30, unless otherwise 
+exempt from this requirement by meeting the conditions in 7 U.S.C. 2136 and 9 CFR parts 1-4 for the 
+duration of the activity.  
+ 
+(ii) Have the recipient’s proposed animal use approved in accordance with DoDI 3216.01, Use of 
+Animals in DoD Programs by a DoD Component Headquarters Oversight Office.  
+(iii) Furnish evidence of such registration and approval to the grants officer.  
+The recipient must make the animals on which the research is being conducted, and all premises, 
+facilities, vehicles, equipment, and records that support animal care and use available during business 
+hours and at other times mutually agreeable to the recipient, the United States Department of Agriculture 
+Office of Animal and Plant Health Inspection Service (USDA/APHIS) representative, personnel 
+representing the DoD component oversight offices, as well as the grants officer, to ascertain that the 
+recipient is compliant with 7 U.S.C. 2131 et seq., 9 CFR parts 1-4, and DoDI 3216.01.  
+The recipient’s care and use of animals must conform with the pertinent laws of the United States, 
+regulations of the Department of Agriculture, and regulations, policies, and procedures of the DoD (see 7 
+U.S.C. 2131 et seq., 9 CFR parts 1-4, and DoDI 3216.01). (d) The recipient must acquire animals in 
+accordance with DoDI 3216.01. 
+ 
+i. BIOLOGICAL SAFETY PROGRAM REQUIREMENTS: Awards may be subject to biological safety 
+program requirements IAW:  
+(a) Army Regulation (AR) 385-10, Chapter 20 
+https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/p385_10.pdf 
+ 
+(b) Department of Army (DA) Pamphlet (PAM) 385-69 on safety standards for microbiological and 
+biomedical laboratories. This pamphlet requires the mandatory use of the latest edition of the U.S. 
+Department of Health and Human Services, Centers for Disease Control and Prevention (CDC) and 
+National Institutes of Health’s (NIH) Biosafety in Microbiological and Biomedical Laboratories (BMBL) 
+https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/p385_69.pdf  
+ 
+(c) DoD Manual 6055.18-M, Enclosure 4, Section 13 https://www.hsdl.org/?view&did=24365  
+ 
+j. MILITARY RECRUITING: This is to notify potential applicants that each grant or cooperative 
+agreement awarded under this announcement to an institution of higher education must include the 
+following term and condition:  
+(a) As a condition for receiving funds available to the DoD under this award, you agree that you are not 
+an institution of higher education (as defined in 32 CFR part 216) that has a policy or practice that either 
+prohibits, or in effect prevents:  
+(i) The Secretary of a Military Department from maintaining, establishing, or operating a unit of the 
+Senior Reserve Officers Training Corps (ROTC)—-in accordance with 10 U.S.C. 654 and other 
+applicable Federal laws—-at that institution (or any sub-element of that institution);  
+(ii) Any student at that institution (or any sub-element of that institution) from enrolling in a unit of the 
+Senior ROTC at another institution of higher education.  
+(iii) The Secretary of a Military Department or Secretary of Homeland Security from gaining access to 
+campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military 
+recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students 
+that is provided to any other employer; or  
+(iv) Access by military recruiters for purposes of military recruiting to the names of students (who are 17 
+24 
+ 
+years of age or older and enrolled at that institution or any subelement of that institution); their addresses, 
+telephone listings, dates and places of birth, levels of education, academic majors, and degrees received; 
+and the most recent educational institutions in which they were enrolled.  
+(b) If you are determined, using the procedures in 32 CFR part 216, to be such an institution of higher 
+education during the period of performance of this award, we:  
+(i) Will cease all payments to you of DoD funds under this award and all other DoD grants and 
+cooperative agreements; and  
+(ii) May suspend or terminate those awards unilaterally for material failure to comply with the award 
+terms and conditions. 
+ 
+k. DRUG-FREE WORKPLACE: The recipient must comply with drug-free workplace requirements in 
+Subpart B of 2 CFR Part 26, which is the DoD implementation of 41 U.S.C. Chapter 81, “Drug-Free 
+Workplace” 
+ 
+l. DEBARMENT AND SUSPENSION: The recipient must comply with requirements regarding 
+debarment and suspension in 2 CFR Part 1125. This includes requirements concerning the recipient’s 
+principals under an award, as well as requirements concerning the recipient’s procurement transactions 
+and subawards that are implemented in DoD Research and Development General Terms and Conditions 
+PROC Articles I through III and Sub Article II. 
+ 
+m.  REPORTING SUBAWARDS AND EXECUTIVE COMPENSATION: The recipient must report 
+information about subawards and executive compensation as specified in the award term in Appendix A 
+to 2 CFR Part 170, “Reporting subaward and executive compensation information,” modified as follows:  
+ 
+(a) To accommodate any future designation of a different Government wide Web site for reporting 
+subaward information, the Web site “http://www.fsrs.gov” cited in paragraphs a.2.i. and a.3 of the award 
+provision is replaced by the phrase “http://www.fsrs.gov or successor OMB designated Web site for 
+reporting subaward information”;  
+(b) To accommodate any future designation of a different Government wide Web site for reporting 
+executive compensation information, the Web site “http://www.sam.gov” cited in paragraph b.2.i. of the 
+award provision is replaced by the phrase “https://www.sam.gov or successor OMB-designated Web site 
+for reporting information on total compensation” 
+ 
+n. Reporting  
+ 
+Additional reports including number and types will be specified in the award document but will include as 
+a minimum monthly financial status reports. The reports shall be prepared and submitted in accordance 
+with the procedures contained in the award document and mutually agreed upon before award. Reports 
+and briefing material will also be required as appropriate to document progress in accomplishing program 
+metrics. A final report that summarizes the project and tasks will be required at the conclusion of the 
+performance period for the award. 
+ 
+If the total Federal share exceeds $500,000 on any Federal award under a notice of funding opportunity, 
+the post-award reporting requirements reflected in Appendix XII to 2 CFR 200 will be included in the 
+award document. This requirement also applies to modifications of awards that: 1) increase the scope of 
+the award, 2) are issued on or after January 1, 2016, and 3) increase the federal share of the award’s total 
+value to an amount that exceeds $500,000. 
+ 
+ 
+G. Federal Awarding Agency Contact 
+25 
+ 
+For questions of a technical or programmatic nature, contact: 
+Evelyn Kent 
+Office of the Under Secretary of Defense for Research and Engineering (OUSD(R&E)) 
+Evelyn.W.Kent.civ@mail.mil 
+ 
+Tamika Carey 
+OUSD(R&E) HBCU/MI Program Analyst 
+Tamika.A.Carey.ctr@mail.mil 
+ 
+Tara Smith 
+OUSD(R&E) HBCU/MI Program Analyst 
+Tara.L.Smith38.ctr@mail.mil 
+ 
+Questions regarding program execution and administration should be directed to: 
+ 
+Patrice D. Collins 
+US Army Combat Capabilities Development Command (CCDC) - Army Research Laboratory 
+(ARL) 
+Patrice.D.Collins.civ@army.mil 
+ 
+Monique Wright 
+US Army Combat Capabilities Development Command (CCDC) - Army Research Laboratory 
+(ARL) 
+Monique.n.wright3.civ@army.mil 
+ 
+Glenn Hames 
+Fibertek 
+ARL HBCU/MI Program Specialist Glenn.e.hames.ctr@army.mil 
+ 
+The Grants Officer for this FOA:  
+ 
+William A. Creech 
+US Army Contracting Command, Aberdeen Proving Ground RTP Division 
+William.A.Creech3.civ@army.mil 
+ 
+ 
+ 
+H. Other Submission Information 
+ 
+An applicant may withdraw an application at any time before award by written notice or by e-mail. The 
+AOR must send the notice of withdrawal to the Grants Officer of this FOA. Withdrawals are effective 
+upon receipt by the Grants Officer. 
+ 
+Applications must not include any information that has been identified as classified national security 
+information under authorities established in Executive Order 12958, Classified National Security 
+Information. 
+ 
+Applicants are advised that employees of commercial firms under contract to the government may be 
+26 
+ 
+involved in administrative processing of applications. By submitting an application, an applicant 
+consents to allowing access to its application(s) by these support contractors. All support contracts 
+include nondisclosure agreements prohibiting their contractor employees from disclosing any 
+information submitted by applicants. 
+ 
+Risk-Based Security Review Process 
+Senior/Key Personnel proposed under all grants and cooperative agreements are subject to 
+the DoD Fundamental Research Risk-Based Security Review Process. This risk-based security 
+review process provides consistency in policy and procedures across all DoD Components. Risk-
+based security reviews will be conducted of all covered individuals (i.e., Senior/Key Personnel) 
+submitted with fundamental research proposals that are identified as “selectable and 
+recommended for funding.” The risk-based security reviews will be conducted by reviewing the 
+Standard Form (SF) 424, “Senior/Key Person Profile (Expanded),” its accompanying or 
+referenced documents, and the Research Performance Progress Reports (when applicable), in 
+concert with the OUSD(R&E)’s Decision Matrix to Inform Fundamental Research Proposal 
+Mitigation Decisions. 
+ 
+It is DoD policy that the publication of products of fundamental research will remain unrestricted 
+to the maximum extent possible. National Security Decision Directive (NSDD) 189 defines 
+fundamental research as follows: 
+ 
+Basic and applied research in science and engineering, the results of which ordinarily 
+are published and shared broadly within the scientific community, as distinguished 
+from proprietary research and from industrial development, design, production, and 
+product utilization, the results of which ordinarily are restricted for proprietary or 
+national security reasons. 
+As of the date of publication of this solicitation, the Government expects that program goals as 
+described herein may be met by proposers intending to perform fundamental research and does 
+not anticipate applying publication restrictions of any kind to individual awards for fundamental 
+research that may result from this solicitation. Notwithstanding this statement of expectation, the 
+Government is not prohibited from considering and selecting research proposals that, while 
+perhaps not qualifying as fundamental research under the foregoing definition, still meet the 
+solicitation criteria for submissions. If proposals are selected for award that offer other than a 
+fundamental research solution, the Government will either work with the proposer to modify the 
+proposed statement of work to bring the research back into line with fundamental research or else 
+the proposer will agree to restrictions to receive an award. 
+ 
+University or non-profit research institution performance under this solicitation will include 
+efforts categorized as fundamental research. In addition to Government support for free and open 
+scientific exchanges and dissemination of research results in a broad and unrestricted manner, the 
+academic or non-profit research performer or recipient, regardless of tier, acknowledges that such 
+research may have implications that are important to U.S. national interests and must be protected 
+against foreign influence and exploitation. As such, the academic or non-profit research 
+performer or recipient agrees to comply with the following requirements: 
+a. On June 8, 2023, the Undersecretary of Defense for Research and Engineering (OUSD 
+(R&E)) released a memorandum, “Policy on Risk-Based Security Reviews on 
+Fundamental Research,” directing Components to establish a risk-based security review 
+27 
+ 
+program to identify and mitigate undue foreign influence in fundamental research 
+consistent with the requirements mandated by NSPM-33. In accordance with these 
+requirements, all Covered Individuals proposed under all fundamental research proposals 
+that are selected for award will be assessed for potential undue foreign influence risk 
+factors relating to professional and financial activities. This will be done by evaluating 
+information provided via the SF-424 and any accompanying or referenced documents to 
+identify and assess any associations or affiliations the Covered Individuals may have with 
+foreign countries of concern (FCOC) (i.e., The Peoples Republic of China, the Russian 
+Federation, the Islamic Republic of Iran, and the Democratic People’s Republic of North 
+Korea) or FCOC connected entities. 
+b. The University or non-profit research institution, performer, or recipient must establish 
+and maintain an internal process or procedure to address malign foreign talent programs, 
+conflicts of commitment, conflicts of interest, and research integrity consistent with 
+USD(R&E) direction. The academic or non-profit research performer or recipient must 
+also utilize due diligence to identify Foreign Components or participation by Covered 
+Individuals in Foreign Government Talent Recruitment Programs and agree to share such 
+information with the Government upon request. 
+i. 
+The above-described information will be provided to the Government as part of 
+the proposal response to the solicitation and will be reviewed and assessed 
+utilizing a risk-based security review process prior to award. Generally, this 
+information will be included in the Research and Related Senior/Key Personnel 
+Profile (Expanded) form (SF-424) required as part of the proposer’s submission 
+through Grants.gov. 
+1. Instructions regarding how to fill out the SF-424 and its biographical 
+sketch can be found through Grants.gov. 
+ii. 
+The risk-based security review process takes into consideration the entirety of the 
+Covered Individual’s SF-424, current and pending support, and biographical 
+sketch. Any identified potential risk factors, along with publicly or commercially 
+available validation information, are then compared to the “DoD Risk Decision 
+Matrix” to determine the level of mitigation that may be required to proceed, if 
+possible. 
+iii. 
+The risk-based security review process will leverage publicly available lists or 
+reports published by the U.S. federal government. Those lists and reports include, 
+but are not limited to: 
+1. FY22 Lists Published in Response to Section 1286 of the John S. 
+McCain National Defense Authorization Act for Fiscal Year 2019 
+(Public Law 115-232), as amended. 
+2. Executive Order 13959 “Addressing the Threat From Securities 
+Investments That Finance Communist Chinese Military 
+Companies”: www.govinfo.gov/content/pkg/FR-2020-11-17/pdf/2020-
+25459.pdf 
+3. The U.S. Department of Commerce, Bureau of Industry and Security, 
+List of Parties of Concern: www.bis.doc.gov/index.php/policy-
+guidance/lists-of-parties-of-concern 
+4. Director of National Intelligence (DNI) “World Wide Threat Assessment 
+of the US Intelligence 
+28 
+ 
+Community”: www.dni.gov/files/ODNI/documents/assessments/ATA-
+2023-Unclassified-Report.pdf 
+5. Various Defense Counterintelligence and Security Agency (DCSA) 
+products regarding targeting of US technologies, adversary targeting of 
+academia, and the exploitation of academic experts: www.dcsa.mil 
+iv. 
+The DoD has explicitly stated in policy that there are foreign influence risks that 
+are not able to be mitigated and thus would require denial of award. They are: 
+1. BEGINNING IN FISCAL YEAR (FY) 2024 (1 OCTOBER 2023) 
+PROSPECTIVE, NO U.S. INSTITUTION OF HIGHER 
+LEARNING THAT HOSTS A CONFUCIUS INSTITUTE* MAY 
+RECEIVE DOD FUNDING UNLESS THE INSTITUTION OF 
+HIGHER EDUCATION HAS BEEN ISSUED A WAIVER BY THE 
+SECRETARY OF DEFENSE PURSUANT TO SECTION 1062 OF 
+THE WILLIAM M. (MAC) THORNBERRY NATIONAL 
+DEFENSE AUTHORIZATION ACT FOR FY 
+2021. INSTITUTIONS HOSTING A CONFUCIUS INSTITUTE 
+ARE AUTOMATICALLY CLASSIFIED AS “PROHIBITED” 
+UNDER OUSD(R&E) “POLICY ON RISK-BASED SECURITY 
+REVIEWS ON FUNDAMENTAL RESEARCH” 
+2. AS OF 9 AUGUST 2024, THE DOD IS PROHIBITED FROM 
+FUNDING OR MAKING AN AWARD OF A FUNDAMENTAL 
+RESEARCH PROJECT PROPOSAL IN WHICH A COVERED 
+INDIVIDUAL IS ACTIVELY PARTICIPATING IN A MALIGN 
+FOREIGN TALENT RECRUITMENT PROGRAM (MFTRP), 
+PURSUANT TO SECTION 10632 OF THE CHIPS AND SCIENCE 
+ACT OF 2022. INDIVIDUALS PARTICIPATING IN A MFTRP 
+ARE AUTOMATICALLY CLASSIFIED AS “PROHIBITED” 
+UNDER OUSD(R&E) “POLICY ON RISK-BASED SECURITY 
+REVIEWS ON FUNDAMENTAL RESEARCH” 
+* The term “Confucius Institute” means a cultural institute directly or indirectly 
+funded by the Government of the People's Republic of China. 
+v. 
+Any changes to covered individuals will require submission of an SF 424 and its 
+attachments, a security-based risk assessment, and approval by the contracting 
+officer and program manager. 
+vi. 
+Security-based risk assessments will also be conducted if changes to covered 
+individuals reporting criteria are reflected in the Research Performance Progress 
+Reports. 
+vii. 
+To the greatest extent practicable, the DoD will work with the proposing 
+institution to ensure that if the risk is able to be mitigated, it will make every 
+effort to do so. If the proposing institution refuses to, or is unable to mitigate the 
+identified risks, it may result in a denial of award. 
+viii. 
+Proposing institutions who have their fundamental research proposal rejected due 
+to the risk-based security review process or the inability to come to agreement 
+concerning proposed mitigation strategies may challenge the risk-based security 
+review decision. In that instance, the OUSD(R&E) will reconsider the project 
+proposal as well as any additional documentation provided by the proposing 
+29 
+ 
+institution to ensure that there was no erroneous interpretation of the material 
+facts or law.  
+ix. 
+This process, to include negotiation of risk mitigation measures, is not to be 
+considered as part of the time-to-award. 
+c. Failure of the academic or non-profit research performer or recipient to reasonably 
+exercise due diligence to discover or ensure that neither it nor any of its Covered 
+Individuals involved in the subject award are participating in a Malign Foreign 
+Government Talent Program or have a Foreign Component with FCOC or FCOC-
+connected entity may result in the Government exercising remedies in accordance with 
+Federal law and regulation. 
+i. 
+If, at any time during performance of this research award, the academic or non-
+profit research performer or recipient should learn that it, its Covered Individuals, 
+or applicable team members or subtier performers on this award are, or are 
+believed to be, participants in a malign foreign government talent program or 
+exhibiting behaviors/actions identified in the DoD Component Decision Matrix 
+(i.e., funding from a FCOC or FCOC-connected entity, patents resulting from 
+U.S. government funded research that were filed with a FCOC or on behalf of a 
+FCOC-connected entity, and associations or affiliations with foreign government 
+connected entities), the performer or recipient will notify the Government 
+Contracting Officer or Agreements Officer within 5 business days. 
+1. This disclosure must include specific information as to the personnel 
+involved and the nature of the situation and relationship. The 
+Government will have 30 business days to review this information and 
+conduct any necessary fact-finding or discussion with the performer or 
+recipient. 
+2. Such disclosure could result in a termination of award at the 
+government’s discretion. 
+3. If the University receives no response from the Government to its 
+disclosure within 30 business days, it may presume that the Government 
+has determined the disclosure does not represent a threat. 
+ii. 
+The performer or recipient must flow down this provision to any subtier contracts 
+or agreements involving direct participation in the performance of the research. 
+All analysis and assessment of affiliations and associations of Covered Individuals are 
+compliant with Title VI of the Civil Rights Act of 1964. Information regarding race, 
+color, or national origin is not collected and does not have bearing in the risk assessment. 
+University or non-profit research institutions with proposals selected for negotiation that 
+have been assessed as having potential undue foreign influence risk factors, as defined by 
+the DoD Decision Matrix, will be given an opportunity during the negotiation process to 
+mitigate the risk. The DoD reserves the right to request any follow-up information needed 
+to assess potential risk factors or proposed risk mitigation strategies. 
+d. Definitions: Definitions can be found in the June 08, 2023 USD(R&E) memorandum, 
+“Policy for Risk Based Security Reviews of Fundamental Research,” or as it is amended. 
+ 
